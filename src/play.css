@@ -1,0 +1,16 @@
+img#profile{
+    height:12rem;
+    width: 12rem;
+    border-radius: 100%;
+}
+body{
+    background-color: rgb(54, 54, 54);
+    color: aliceblue;
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+}
+.section-card {
+            transition: transform 0.2s;
+        }
+.section-card:hover {
+    transform: translateY(-2px);
+}
